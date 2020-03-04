@@ -1,0 +1,11 @@
+{
+    "name": "Video-Stream",
+    "version": "0.0.1",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "*",
+        "opentok": "^2.9.1",
+        "socket.io": "*",
+        "stripe": "^7.10.0"
+    }
+}
